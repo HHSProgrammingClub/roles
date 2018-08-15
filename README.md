@@ -1,17 +1,17 @@
 # roles
 roles of all le current &amp; past members of le cult of aestheti
 
-**lgtyqz** - Founder, Leader
+**lgtyqz** - Founder, Leader (Python)
 
 **adrian** (retired) - Founder, Leader
 
 **zirientis** (retired) - Founder, Leader, Programming Expert
 
-**clman94** - Resident Programming Expert
+**clman94** - Resident Programming Expert (C++)
 
-**Nisnow** - Member, The Art Person
+**Nisnow** - Member, High Experienced Programmer (Java) who's somehow good at art as well
 
-**TheLordOfAllMuffins** - Member, Highly Experienced Programmer
+**TheLordOfAllMuffins** - Member, Experienced Programmer
 
 **Victor K.** (retired) - Media Outreach (kind of)
 
