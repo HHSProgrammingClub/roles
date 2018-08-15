@@ -9,7 +9,7 @@ roles of all le current &amp; past members of le cult of aestheti
 
 **clman94** - Resident Programming Expert (C++)
 
-**Nisnow** - Member, High Experienced Programmer (Java) who's somehow good at art as well
+**Nisnow** - Member, Experienced Programmer (Java) who's somehow good at art as well
 
 **TheLordOfAllMuffins** - Member, Experienced Programmer
 
