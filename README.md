@@ -1,7 +1,7 @@
 # roles
 roles of all le current &amp; past members of le cult of aestheti
 
-**lgtyqz** - Founder, Leader (Python)
+**lgtyqz** - Founder, Leader
 
 **adrian** (retired) - Founder, Leader
 
