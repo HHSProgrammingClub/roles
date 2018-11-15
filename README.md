@@ -17,4 +17,4 @@ roles of all le current &amp; past members of le cult of aestheti
 
 **Seven-Thousand-Screaming-Birds** - Member, Minesweeper
 
-**Babuntska** - Member, Assistant Minesweeper
+**Babuntska** - Member, Better Minesweeper
